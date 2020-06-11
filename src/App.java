@@ -18,7 +18,7 @@ public class App {
             }
         }
        
-          System.out.println(multiplos);
+          System.out.println(("multiplos de 3, 5 o 3 y 5: \n") + multiplos);
 
     }
 }
